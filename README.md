@@ -17,5 +17,4 @@ Wired Lan
 
 Mapped USB ports
 
-To perform the complete setup watch this video : https://youtu.be/xiO0U-pOHpE
 
